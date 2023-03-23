@@ -12,3 +12,4 @@ elif(time>=17 and time <=20 ) :
     print("snacks time")
 else:
     print ("wrong input")
+print("hello ")
